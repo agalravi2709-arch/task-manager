@@ -61,7 +61,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>My Tasks</h1>
+            <h1>Agalya's Task Manager</h1>
             <form action="/add" method="POST">
                 <input type="text" name="task"
                        placeholder="Enter a new task" required>
